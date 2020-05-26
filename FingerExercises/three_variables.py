@@ -7,7 +7,7 @@ print a message to that effect.
 """
 
 # Initialize variables
-x = 2
+x = 3
 y = 4
 z = 1
 largest = 0
