@@ -14,3 +14,4 @@ def isIn(string1, string2):
 
 print(isIn('have', 'I have a pen'))
 print(isIn('says', 'Cake is good'))
+print(isIn('I have an apple', 'apple'))
